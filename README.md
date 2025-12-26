@@ -1,0 +1,1 @@
+# Find-the-second-smallest-number-and-position-using-array
